@@ -32,7 +32,7 @@ for(card of imagenes){
           							</div>
           							<img src="img/${card}.jpg" alt="rio con puente" class="img-fluid rounded" />
           							<div class="text-center bg-light"> 
-          								<button  class="btn btn-warning" onclick="ajax_get_json(${card})"><strong>Mostrar Menu</strong></button>
+          								<button  class="btn btn-warning" onclick="ajax_get_json(${card})"><strong>Mostrar La Carta</strong></button>
                           <div id="info${card}"></div>
                         </div>
                     	</div>	
