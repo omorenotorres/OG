@@ -35,7 +35,59 @@ img {
                 animation: mymove 5s /*infinite*/ 3;
             }
 
+.form-register{
+    width: 95%;
+    max-width:500px;
+    margin: auto;
+    background: white;
+    border-radius: 7px;
+}
 
+.contenedor-inputs{
+    margin-top: 20px;
+    padding: 10px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form__link{
+    width: 100%;
+    margin: 7px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+    width: 48%;
+}
+
+.input-100{
+    margin-top: 10px;
+    margin-bottom: 20px;     
+    width: 100%;
+}
+
+.input-48{
+    margin-top: 10px;
+    margin-bottom: 20px;    
+    width: 48%;
+}    
+
+.btn-reservar{
+    background: orange;
+    color: black;
+    margin: auto;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-weight: bold;
+    align-items: center;
+}
+
+.form__link{
+    width: 100%;
+    margin: 7px;
+    text-align: center;
+    font-size: 14px;
+}
 /*La @keyframen línea crea y nombra nuestra animación como 'myMove'.
 Dentro de las { .. } llaves, establecemos las propiedades CSS en ciertas etapas de la animación conocidas 
 como selectores de animación. Estos son exactamente como los selectores de CSS, pero eliges un punto 
