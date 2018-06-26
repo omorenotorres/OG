@@ -1,0 +1,161 @@
+tipo,descripcion_tipo,item,descripcion_item,precio_item
+1,Aperitivos,Calypso OG ,"(Ron, curacao azul, crema de coco, jugo de mango y hielo)",3
+1,Aperitivos,Pisco sour Ganador,"(Pisco Quebranta y acholado, lim¢n, jarabe, clara de huevo, amargo de angostura)",3
+1,Aperitivos,Maracuy  Sour,"(Pisco Quebranta, maracuy , lim¢n, jarabe, clara de huevo)",3
+1,Aperitivos,Chilcano de Pisco,"(Pisco Quebranta, lim¢n, amargo de angostura, Ginger Ale)",3
+1,Aperitivos,Cocktail de Algarrobina,"(Pisco Quebranta, algarrobina, jarabe, leche, yema de huevo, canela)",3
+1,Aperitivos,Macerados de Pisco en,"(Hierba Luisa, Cnela, Aj¡, Aguaymanto y Kion)",3
+1,Aperitivos,Daiquiri,"(Ron, jarabe, hielo y Fresa, lim¢n o durazno)",3
+1,Aperitivos,Piscina,"(Pisco, ron, vodka, gin, jugo de pi¤a y curacao azul)",3
+1,Aperitivos,Sangr¡a,(1 jarra),12
+1,Aperitivos,Sangr¡a,(1/2 jarra),6
+1,Aperitivos,"Shot de pisco, ron y anis n jar",,3
+2,Recomendaciones del Chef,Cebiche OG,"La especialidad de la casa. Perfecta combinaci¢n de pescado y mariscos en cebiche acompa¤ados con Brochetas de Mariscos, todo ba¤ado en salsa de aj¡ amarillo y salsa de rocoto.",12
+2,Recomendaciones del Chef,Tiradito OG,"Finas l minas de pescado cocido con lim¢n, ba¤ado por cuatro salsas distintas: de aj¡ amarillo, de olivo, de cebiche tradicional y de rocoto.",12
+2,Recomendaciones del Chef,Tacu tacu OG,"Tacu tacu tradicional cubierto de salsa blanca y mariscos, acompa¤ados de brochetas de pescado flambeadas con pisco y una guarnici¢n de pl tanos fritos.",12
+2,Recomendaciones del Chef,Lomo fino OG,"Exquisita combinaci¢n de Fetuccini en salsa de rocoto, Lomo fino a la parrilla ba¤ado en salsa de Langostinos y Lomo fino en salsa de Champi¤ones.",18
+2,Recomendaciones del Chef,Ronda Marina,"Excelente plato familiar con los mejores sabores marinos: Cebiche de pescado, chicharr¢n de calamar, tiradito en salsa de aj¡ amarillo, arroz con mariscos y causa de pulpa de cangrejo.",25
+3,Entradas,Tamal criollo / verde,,15
+3,Entradas,Papa a la huanca¡na,,15
+3,Entradas,Teque¤os de jam¢n y queso,,15
+3,Entradas,Teque¤os de langostinos,,15
+3,Entradas,Palta rellena,,15
+3,Entradas,Choritos a la chalaca,,15
+3,Entradas,Conchitas a la parmesana,,15
+3,Entradas,Pulpo al olivo,,15
+3,Entradas,Rocoto Relleno,,15
+3,Entradas,Causa de pulpa de cangrejo,,15
+3,Entradas,causa de pollo ,,15
+3,Entradas,Causa De langostinos,,15
+4,Cebiches,Cebiche Bah¡a,,15
+4,Cebiches,Cebiche de pescado Junior,,15
+4,Cebiches,Cebiche de pescado Personal,,15
+4,Cebiches,Cebiche mixto,,15
+4,Cebiches,Cebiche de conchas negras,,15
+4,Cebiches,Cebiche cl sico,(De conchas negras y pescado),15
+4,Cebiches,Tiradito OG (4 colores),,15
+4,Cebiches,Tiradito tradicional,,15
+4,Cebiches,Leche de tigre,(con chicharr¢n).,15
+4,Cebiches,Leche de pantera,(con chicharr¢n).,15
+5,Chicharrones,Jalea,,15
+5,Chicharrones,Jalea de chita,,15
+5,Chicharrones,Chicharr¢n de pollo,,15
+5,Chicharrones,Chicharr¢n de calamar,,15
+5,Chicharrones,Chicharr¢n de langostino,,15
+5,Chicharrones,Chicharr¢n de camar¢n,,15
+5,Chicharrones,Chicharr¢n mixto,,15
+5,Chicharrones,Chicharr¢n de pescado,,15
+6,Combinados Marinos,Cebiche y chicharr¢n de calamar,,30
+6,Combinados Marinos,Cebiche y arroz con mariscos,,30
+6,Combinados Marinos,Triple marino,"(cebiche de pescado, chicharr¢n de calamar y arroz con mariscos)",30
+6,Combinados Marinos,Ronda marina,"(Cebiche de pescado, chicharr¢n de calamar, tiradito tradicional, arroz con mariscos y causa de pulpa de cangrejo)",30
+7,Sopas,Chilcano especial,,15
+7,Sopas,Dieta de pollo,,15
+7,Sopas,Sopa a la minuta,,15
+7,Sopas,Sopa criolla,,15
+7,Sopas,Parihuela,,15
+7,Sopas,Chupe de pescado,,15
+7,Sopas,Chupe de langostino,,15
+7,Sopas,Chupe de camarones,,15
+7,Sopas,Sudado de pescado,,15
+7,Sopas,Sudado Mixto,,15
+8,Arroces,Volc n OG,,16
+8,Arroces,Arroz con mariscos,,16
+8,Arroces,Risotto con pescado al grill,,16
+8,Arroces,Delicia OG,"(Risotto en salsa de hierbas arom ticas coronado con mixtura de exquisitos frutos del mar, trozos de pescado y l minas de tocino al grill)",16
+8,Arroces,Chaufa de pollo,,16
+8,Arroces,Chaufa de mariscos,,16
+8,Arroces,Chaufa de pescado,,16
+8,Arroces,Tacu tacu OG,,16
+8,Arroces,Tacu tacu a lo pobre,,16
+8,Arroces,Tacu tacu de mariscos,,16
+8,Arroces,Tacu tacu con lomo saltado,,16
+9,Pescados,Pescado frito o plancha,,19
+9,Pescados,A lo macho,,19
+9,Pescados,Con salsa de langostino,,19
+9,Pescados,A la chorrillana,,19
+9,Pescados,Escabeche,,19
+9,Pescados,Con salsa de champi¤ones,,19
+9,Pescados,Pescado saltado,,19
+9,Pescados,Chita / lenguado con salsa de langostinos,,19
+9,Pescados,Chita/lenguado al ajillo,,19
+9,Pescados,Chita / lenguado al ajo,,19
+9,Pescados,Chita/lenguado dorada,,19
+9,Pescados,Chita/lenguado sudado,,19
+9,Pescados,Jalea de chita ,,19
+9,Pescados,Chita / Lenguado a lo Macho,,19
+9,Pescados,Cabrilla dorada,,19
+9,Pescados,Cabrilla sudado,,19
+9,Pescados,Cabrilla al ajillo,,19
+9,Pescados,Cabrilla en salsa de langostinos,,19
+9,Pescados,Cabrilla a lo macho,,19
+9,Pescados,Cabrilla al ajo,,19
+10,Pastas,Lomo fino OG,,18
+10,Pastas,Lasagna OG,,18
+10,Pastas,Lasagna de carne,,18
+10,Pastas,Fetuccini a la huancaina con lomo fino,,18
+10,Pastas,Fetuccini a la bolognesa con langostinos,,18
+10,Pastas,Fetuccini al pesto con bistec,,18
+11,Pollos,Filete de pechuga a la plancha,,18
+11,Pollos,Pollo saltado,,18
+11,Pollos,Tallar¡n saltado con pollo,,18
+11,Pollos,Pechuga a la parrilla,,18
+11,Pollos,Cordon bleu,,18
+11,Pollos,Milanesa de pollo,,18
+12,Criollo,Cau cau,,17
+12,Criollo,Olluquito con carne,,17
+12,Criollo,Arroz con pollo,,17
+12,Criollo,Carapulcra,,17
+12,Criollo,Aj¡ de gallina,,17
+12,Criollo,Seco de res con frejoles,,17
+12,Criollo,Lomo saltado,,17
+12,Criollo,Lomo saltado,,17
+13,Combinados Criollos,Tallarines con papa a la huanca¡na,,15
+13,Combinados Criollos,Arroz con pollo y papa huanca¡na,,15
+13,Combinados Criollos,Ronda criolla,"(Aj¡ de gallina, Seco con frejol, cau cau, Carapulcra o arroz con pollo)",15
+14,Ensaladas,Ensalada Mixta,"(Lechuga, tomate, palta y cebolla)",10
+14,Ensaladas,Ensalada Cesar,"(Lechuga, tomate, pechuga a la parrilla, tocino, queso parmesano, croutones)",10
+14,Ensaladas,Ensalada light,"(Pechuga a la parrilla, pecanas, lechuga, tomate, espinaca, queso, pimientos, apio)",10
+15,Al Grill,Anticuchos,(2 palitos),15
+15,Al Grill,Bandera peruana (3 palitos),"(Deliciosa combinaci¢n de coraz¢n de res y jusgoso muslo de pollo, acompa¤ado con choclo y papa sancochada)",15
+15,Al Grill,Chuleta a la parrilla,,15
+15,Al Grill,Baby beef (250gr),,15
+15,Al Grill,Pechuga a la parrilla,,15
+16,Platos Fin de Semana,Chancho al cilindro/caja china,(Servido con papas bravas o carapulcra y ensaladas),17
+16,Platos Fin de Semana,1/2 Cuy crocante,(Con papas en salsa de man¡ acompa¤ado con arroz blanco),17
+16,Platos Fin de Semana,Costillas a la BBQ,,17
+17,Guarniciones,Chorizo ,(2 unidades),8
+17,Guarniciones,Papa / yuca frita,,8
+17,Guarniciones,Camote/papa/choclo/yuca,,8
+17,Guarniciones,Arroz blanco,,8
+18,Parrillas,Parrilla familiar,"(2 bifes, 2 chuletas, 2 muslos de pollo, 2 anticuchos, 2 brocheta, 3 chorizos y mollejitas)",35
+18,Parrillas,Parrilla para dos,"(1 bife, 1 chuleta, 1 muslo de pollo, 1 anticucho, 1 chorizo y mollejitas)",24
+18,Parrillas,Parrilla personal,"(1 Bife, pechuga de pollo, 1 palito de anticucho, mollejitas)",17
+19,Postres,Torta,,12
+19,Postres,Mazamorra morada,,12
+19,Postres,Arroz con leche,,12
+19,Postres,Duraznos al jugo,,12
+19,Postres,Ensalada de fruta,,12
+19,Postres,Gelatina,,12
+19,Postres,Crepes de manja,,12
+19,Postres,Piqueo de bocaditos,(8 unidades),12
+20,Cervezas,Cristal / Cusque¤a / Pilsen,620ml,8
+20,Cervezas,Cristal / Cusque¤a / Pilsen,330ml,6
+20,Cervezas,Cusque¤a Negra,330ml,7
+20,Cervezas,Cusque¤a Negra,620ml,10
+20,Cervezas,Budweiser (343ml),"Autentica lager americana. Elaborada con los m s finos ingrediente y un exclusivo proceso de maduraci¢n con madera, generando un sabor balanceado, muy refrescante y con r pido final.",7
+20,Cervezas,Corona(355ml),Cerveza mexicana reconocida mundialmente como un icono de relax y refrescancia presentada en si exclusiva botella transparente siempre coronada con una rodaja de lim¢n.,11
+20,Cervezas,Stella Artois (355ml),Sofisticada lager de origen europeo con m s de 600 a¤os de tradici¢n cervecera caracterizada por un sutil amargor. Perfectamente servida en su exclusivo c liz de cristal.,10
+20,Cervezas,Lowenbrau (355ml),"Cerveza de origen alem n con un intenso color dorado, particular sabor a cebada y delicado amargor. Ahora elaborada en Per£ ideal para disfrutar con los cinco sentidos.",6
+21,Bebidas,Infusiones,,4
+21,Bebidas,Caf‚ con leche,,6
+21,Bebidas,Caf‚,,5
+21,Bebidas,Botella con agua x 600 ml,,4
+21,Bebidas,Gaseosa personal,,4
+21,Bebidas,Coca zero,,5
+21,Bebidas,Inca kola light,,5
+21,Bebidas,Copa chicha/maracuy /limonada,,5
+21,Bebidas,Jarra de chicha morada,,12
+21,Bebidas,Jarra de limonada,,12
+21,Bebidas,Jarra de maracuy ,,12
+21,Bebidas,Copa limonada/ maracuy  frozzen,,8

@@ -1,0 +1,1282 @@
+[
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Calypso OG",
+	"descripcion_item": "(Ron, curacao azul, crema de coco, jugo de mango y hielo)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Pisco sour Ganador",
+	"descripcion_item": "(Pisco Quebranta y acholado, limon, jarabe, clara de huevo, amargo de angostura)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Maracuya Sour",
+	"descripcion_item": "(Pisco Quebranta, maracuya, limon, jarabe, clara de huevo)",
+	"precio_item": "3"
+	},
+	
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Chilcano de Pisco",
+	"descripcion_item": "(Pisco Quebranta, limon, amargo de angostura, Ginger Ale)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Cocktail de Algarrobina",
+	"descripcion_item": "(Pisco Quebranta, algarrobina, jarabe, leche, yema de huevo, canela)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Macerados de Pisco",
+	"descripcion_item": "(Macerados en Hierba Luisa, Canela, Aji, Aguaymanto y Kion)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Daiquiri",
+	"descripcion_item": "(Ron, jarabe, hielo y Fresa, limon o durazno)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Piscina",
+	"descripcion_item": "(Pisco, ron, vodka, gin, jugo de pina y curacao azul)",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Sangria",
+	"descripcion_item": "(1 jarra)",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Sangria",
+	"descripcion_item": "(1/2 jarra)",
+	"precio_item": "6"
+	},
+
+	{
+	"tipo": "1",
+	"descripcion_tipo": "Aperitivos",
+	"item": "Shot de pisco, ron y anis najar",
+	"descripcion_item": "",
+	"precio_item": "3"
+	},
+
+	{
+	"tipo": "2",
+	"descripcion_tipo": "Recomendaciones del Chef",
+	"item": "Cebiche OG",
+	"descripcion_item": "La especialidad de la casa. Perfecta combinacion de pescado y mariscos en cebiche acompanados con Brochetas de Mariscos, todo banado en salsa de aji amarillo y salsa de rocoto.",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "2",
+	"descripcion_tipo": "Recomendaciones del Chef",
+	"item": "Tiradito OG",
+	"descripcion_item": "Finas laminas de pescado cocido con limon, banado por cuatro salsas distintas: de aji amarillo, de olivo, de cebiche tradicional y de rocoto.",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "2",
+	"descripcion_tipo": "Recomendaciones del Chef",
+	"item": "Tacu tacu OG",
+	"descripcion_item": "Tacu tacu tradicional cubierto de salsa blanca y mariscos, acompanados de brochetas de pescado flambeadas con pisco y una guarnicion de platanos fritos.",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "2",
+	"descripcion_tipo": "Recomendaciones del Chef",
+	"item": "Lomo fino OG",
+	"descripcion_item": "Exquisita combinacion de Fetuccini en salsa de rocoto, Lomo fino a la parrilla banado en salsa de Langostinos y Lomo fino en salsa de Champinones.",
+	"precio_item": "18"
+	},
+
+	{"tipo": "2",
+	"descripcion_tipo": "Recomendaciones del Chef",
+	"item": "Ronda Marina",
+	"descripcion_item": "Excelente plato familiar con los mejores sabores marinos: Cebiche de pescado, chicharron de calamar, tiradito en salsa de aji amarillo, arroz con mariscos y causa de pulpa de cangrejo.",
+	"precio_item": "25"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Tamal criollo / verde",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Papa a la huancaina",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Tequenos de jamon y queso",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Tequenos de langostinos",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Palta rellena",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Choritos a la chalaca",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Conchitas a la parmesana",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Pulpo al olivo",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Rocoto Relleno",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Causa de pulpa de cangrejo",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "causa de pollo ",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "3",
+	"descripcion_tipo": "Entradas",
+	"item": "Causa De langostinos",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche OG",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche de pescado Junior",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche de pescado Personal",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche mixto",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche de conchas negras",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Cebiche clasico",
+	"descripcion_item": "(De conchas negras y pescado)",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Tiradito OG (4 colores)",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Tiradito tradicional",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Leche de tigre",
+	"descripcion_item": "(con chicharron).",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "4",
+	"descripcion_tipo": "Cebiches",
+	"item": "Leche de pantera",
+	"descripcion_item": "(con chicharron).",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Jalea",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Jalea de chita",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Chicharron de pollo",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Chicharron de calamar",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": 
+	"Chicharrones",
+	"item": "Chicharron de langostino",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Chicharron de camaron",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Chicharron mixto",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "5",
+	"descripcion_tipo": "Chicharrones",
+	"item": "Chicharron de pescado",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "6",
+	"descripcion_tipo": "Combinados Marinos",
+	"item": "Cebiche y chicharron de calamar",
+	"descripcion_item": "",
+	"precio_item": "30"
+	},
+
+	{
+	"tipo": "6",
+	"descripcion_tipo": "Combinados Marinos",
+	"item": "Cebiche y arroz con mariscos",
+	"descripcion_item": "",
+	"precio_item": "30"
+	},
+
+	{
+	"tipo": "6",
+	"descripcion_tipo": "Combinados Marinos",
+	"item": "Triple marino",
+	"descripcion_item": "(cebiche de pescado, chicharron de calamar y arroz con mariscos)",
+	"precio_item": "30"
+	},
+
+	{
+	"tipo": "6",
+	"descripcion_tipo": "Combinados Marinos",
+	"item": "Ronda marina",
+	"descripcion_item": "(Cebiche de pescado, chicharron de calamar, tiradito tradicional, arroz con mariscos y causa de pulpa de cangrejo)",
+	"precio_item": "30"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Chilcano especial",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Dieta de pollo",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Sopa a la minuta",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Sopa criolla",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Parihuela",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Chupe de pescado",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Chupe de langostino",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Chupe de camarones",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Sudado de pescado",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "7",
+	"descripcion_tipo": "Sopas",
+	"item": "Sudado Mixto",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Volcan OG",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Arroz con mariscos",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Risotto con pescado al grill",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Delicia OG",
+	"descripcion_item": "(Risotto en salsa de hierbas aromaticas coronado con mixtura de exquisitos frutos del mar, trozos de pescado y laminas de tocino al grill)",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Chaufa de pollo",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Chaufa de mariscos",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Chaufa de pescado",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Tacu tacu OG",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Tacu tacu a lo pobre",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Tacu tacu de mariscos",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "8",
+	"descripcion_tipo": "Arroces",
+	"item": "Tacu tacu con lomo saltado",
+	"descripcion_item": "",
+	"precio_item": "16"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Pescado frito o plancha",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "A lo macho",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Con salsa de langostino",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "A la chorrillana",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Escabeche",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Con salsa de champinones",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Pescado saltado",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita / lenguado con salsa de langostinos",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita/lenguado al ajillo",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita / lenguado al ajo",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita/lenguado dorada",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita/lenguado sudado",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Jalea de chita",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Chita / Lenguado a lo Macho",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla dorada",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla sudado",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla al ajillo",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla en salsa de langostinos",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla a lo macho",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "9",
+	"descripcion_tipo": "Pescados",
+	"item": "Cabrilla al ajo",
+	"descripcion_item": "",
+	"precio_item": "19"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Lomo fino OG",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Lasagna OG",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Lasagna de carne",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Fetuccini a la huancaina con lomo fino",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Fetuccini a la bolognesa con langostinos",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "10",
+	"descripcion_tipo": "Pastas",
+	"item": "Fetuccini al pesto con bistec",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Filete de pechuga a la plancha",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Pollo saltado",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Tallarin saltado con pollo",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Pechuga a la parrilla",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Cordon bleu",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "11",
+	"descripcion_tipo": "Pollos",
+	"item": "Milanesa de pollo",
+	"descripcion_item": "",
+	"precio_item": "18"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Cau cau",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Olluquito con carne",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Arroz con pollo",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Carapulcra",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Aji de gallina",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Seco de res con frejoles",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Lomo saltado",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "12",
+	"descripcion_tipo": "Criollo",
+	"item": "Lomo saltado",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "13",
+	"descripcion_tipo": "Combinados Criollos",
+	"item": "Tallarines con papa a la huancaina",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "13",
+	"descripcion_tipo": "Combinados Criollos",
+	"item": "Arroz con pollo y papa huancaina",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "13",
+	"descripcion_tipo": "Combinados Criollos",
+	"item": "Ronda criolla",
+	"descripcion_item": "(Aji de gallina, Seco con frejol, cau cau, Carapulcra o arroz con pollo)",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "14",
+	"descripcion_tipo": "Ensaladas",
+	"item": "Ensalada Mixta",
+	"descripcion_item": "(Lechuga, tomate, palta y cebolla)",
+	"precio_item": "10"
+	},
+
+	{
+	"tipo": "14",
+	"descripcion_tipo": "Ensaladas",
+	"item": "Ensalada Cesar",
+	"descripcion_item": "(Lechuga, tomate, pechuga a la parrilla, tocino, queso parmesano, croutones)",
+	"precio_item": "10"
+	},
+
+	{
+	"tipo": "14",
+	"descripcion_tipo": "Ensaladas",
+	"item": "Ensalada light",
+	"descripcion_item": "(Pechuga a la parrilla, pecanas, lechuga, tomate, espinaca, queso, pimientos, apio)",
+	"precio_item": "10"
+	},
+
+	{
+	"tipo": "15",
+	"descripcion_tipo": "Al Grill",
+	"item": "Anticuchos",
+	"descripcion_item": "(2 palitos)",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "15",
+	"descripcion_tipo": "Al Grill",
+	"item": "Bandera peruana (3 palitos)",
+	"descripcion_item": "(Deliciosa combinacion de corazon de res y jusgoso muslo de pollo, acompanado con choclo y papa sancochada)",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "15",
+	"descripcion_tipo": "Al Grill",
+	"item": "Chuleta a la parrilla",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "15",
+	"descripcion_tipo": "Al Grill",
+	"item": "Baby beef (250gr)",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "15",
+	"descripcion_tipo": "Al Grill",
+	"item": "Pechuga a la parrilla",
+	"descripcion_item": "",
+	"precio_item": "15"
+	},
+
+	{
+	"tipo": "16",
+	"descripcion_tipo": "Platos Fin de Semana",
+	"item": "Chancho al cilindro/caja china",
+	"descripcion_item": "(Servido con papas bravas o carapulcra y ensaladas)",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "16",
+	"descripcion_tipo": "Platos Fin de Semana",
+	"item": "1/2 Cuy crocante",
+	"descripcion_item": "(Con papas en salsa de mani acompanado con arroz blanco)",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "16",
+	"descripcion_tipo": "Platos Fin de Semana",
+	"item": "Costillas a la BBQ",
+	"descripcion_item": "",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "17",
+	"descripcion_tipo": "Guarniciones",
+	"item": "Chorizo ",
+	"descripcion_item": "(2 unidades)",
+	"precio_item": "8"
+	},
+
+	{
+	"tipo": "17",
+	"descripcion_tipo": "Guarniciones",
+	"item": "Papa / yuca frita",
+	"descripcion_item": "",
+	"precio_item": "8"
+	},
+
+	{
+	"tipo": "17",
+	"descripcion_tipo": "Guarniciones",
+	"item": "Camote/papa/choclo/yuca",
+	"descripcion_item": "",
+	"precio_item": "8"
+	},
+
+	{
+	"tipo": "17",
+	"descripcion_tipo": "Guarniciones",
+	"item": "Arroz blanco",
+	"descripcion_item": "",
+	"precio_item": "8"
+	},
+
+	{
+	"tipo": "18",
+	"descripcion_tipo": "Parrillas",
+	"item": "Parrilla familiar",
+	"descripcion_item": "(2 bifes, 2 chuletas, 2 muslos de pollo, 2 anticuchos, 2 brocheta, 3 chorizos y mollejitas)",
+	"precio_item": "35"
+	},
+
+	{
+	"tipo": "18",
+	"descripcion_tipo": "Parrillas",
+	"item": "Parrilla para dos",
+	"descripcion_item": "(1 bife, 1 chuleta, 1 muslo de pollo, 1 anticucho, 1 chorizo y mollejitas)",
+	"precio_item": "24"
+	},
+
+	{
+	"tipo": "18",
+	"descripcion_tipo": "Parrillas",
+	"item": "Parrilla personal",
+	"descripcion_item": "(1 Bife, pechuga de pollo, 1 palito de anticucho, mollejitas)",
+	"precio_item": "17"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Torta",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Mazamorra morada",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Arroz con leche",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Duraznos al jugo",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Ensalada de fruta",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Gelatina",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Crepes de manja",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "19",
+	"descripcion_tipo": "Postres",
+	"item": "Piqueo de bocaditos",
+	"descripcion_item": "(8 unidades)",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Cristal / Cusquena / Pilsen",
+	"descripcion_item": "620ml",
+	"precio_item": "8"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Cristal / Cusquena / Pilsen",
+	"descripcion_item": "330ml",
+	"precio_item": "6"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Cusquena Negra",
+	"descripcion_item": "330ml",
+	"precio_item": "7"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Cusquena Negra",
+	"descripcion_item": "620ml",
+	"precio_item": "10"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Budweiser (343ml)",
+	"descripcion_item": "Autentica lager americana. Elaborada con los mas finos ingredientes y un exclusivo proceso de maduracion con madera, generando un sabor balanceado, muy refrescante y con rapido final.",
+	"precio_item": "7"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Corona(355ml)",
+	"descripcion_item": "Cerveza mexicana reconocida mundialmente como un icono de relax y refrescancia presentada en si exclusiva botella transparente siempre coronada con una rodaja de limon.",
+	"precio_item": "11"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Stella Artois (355ml)",
+	"descripcion_item": "Sofisticada lager de origen europeo con mas de 600 anos de tradicion cervecera caracterizada por un sutil amargor. Perfectamente servida en su exclusivo caliz de cristal.",
+	"precio_item": "10"
+	},
+
+	{
+	"tipo": "20",
+	"descripcion_tipo": "Cervezas",
+	"item": "Lowenbrau (355ml)",
+	"descripcion_item": "Cerveza de origen aleman con un intenso color dorado, particular sabor a cebada y delicado amargor. Ideal para disfrutar con los cinco sentidos.",
+	"precio_item": "6"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Infusiones",
+	"descripcion_item": "",
+	"precio_item": "4"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Cafe con leche",
+	"descripcion_item": "",
+	"precio_item": "6"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Cafe",
+	"descripcion_item": "",
+	"precio_item": "5"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Botella con agua x 600 ml",
+	"descripcion_item": "",
+	"precio_item": "4"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Gaseosa personal",
+	"descripcion_item": "",
+	"precio_item": "4"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Coca zero",
+	"descripcion_item": "",
+	"precio_item": "5"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Inca kola light",
+	"descripcion_item": "",
+	"precio_item": "5"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Copa chicha/maracuya/limonada",
+	"descripcion_item": "",
+	"precio_item": "5"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Jarra de chicha morada",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Jarra de limonada",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Jarra de maracuya",
+	"descripcion_item": "",
+	"precio_item": "12"
+	},
+
+	{
+	"tipo": "21",
+	"descripcion_tipo": "Bebidas",
+	"item": "Copa limonada/ maracuya frozzen",
+	"descripcion_item": "",
+	"precio_item": "8"
+	}
+
+]
