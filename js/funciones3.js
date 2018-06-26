@@ -1,8 +1,9 @@
 function validar(){
-	var nombre, apellidos, correo, telefono, expesion;
+	var nombre, apellidos, correo, telefono, expesion, n_comensales;
 	nombre = document.getElementById("nombre").value;
 	apellidos = document.getElementById("apellidos").value;
 	correo = document.getElementById("correo").value;
+	n_comensales = document.getElementById("n_comensales").value;
 	telefono = document.getElementById("telefono").value;
  
 /*  El simbolo  | se crea en codigo asccii con alt+124 */
@@ -35,12 +36,17 @@ function validar(){
 		return false;
 	}
 
+	else if(isNaN(n_comensales)) {
+		alert("El Numero de comensales no es un numero");
+		return false;		
+	}
+
 	else if(telefono.length>11){
 		alert("El teléfono es muy largo");
 		return false;		
 	}
 
-	else if(isNaN.(telefono)) {
+	else if(isNaN(telefono)) {
 		alert("El teléfono ingresado no es un numero");
 		return false;		
 	}
